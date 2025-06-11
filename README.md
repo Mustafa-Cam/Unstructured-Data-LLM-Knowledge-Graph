@@ -2,6 +2,16 @@
 
 (! Projeyi dökümente edin denildiği için bir projeyi ve kodu anlatan bir pdf hazırladım. Cohort'da ekran görüntüsü kısmına ekledim.)
 
+İlk olarak bir .env dosyası ouşturulup şu kısımlar doldurulmalıdır =>
+
+````
+OPENAI_API_KEY=
+NEO4J_URI=
+NEO4J_USERNAME=neo4j
+NEO4J_PASSWORD=-
+````
+Virtual env kullanmak python projeleri için öenrilir. 
+
 Projemizin klasör yapısına bakalım. 
 
  ![image](https://github.com/user-attachments/assets/3980038c-2fb8-4e8c-927a-82dda106bb9b)

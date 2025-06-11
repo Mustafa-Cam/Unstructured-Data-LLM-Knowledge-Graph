@@ -10,7 +10,13 @@ NEO4J_URI=
 NEO4J_USERNAME=neo4j
 NEO4J_PASSWORD=-
 ````
-Virtual env kullanmak python projeleri için önerilir. 
+Sanal ortam kullanmak python projeleri için önerilir. 
+
+Proje ana dizinine gidilip bu komutlar çalıştırılabilir. 1. komut ortamı oluşturur. 2. komut ortamı aktifleştirir.
+````
+python -m venv venv
+venv\Scripts\activate
+````
 
 Projemizin klasör yapısına bakalım. 
 

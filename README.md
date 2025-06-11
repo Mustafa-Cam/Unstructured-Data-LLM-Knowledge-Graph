@@ -7,7 +7,7 @@
 
 Burada create_kg.py dosyası denizcilik üzerine olan pdf’lerden neo4j de bir knowledge graph oluşturdu. OCR kullanımı için de ocr.py adında bir dosya oluşturdum. Chatbot’umuzun kodları ise chatbot klasörü altında bulunuyor.  Zaten tüm dosyaları ayrıntılı şekilde açıkladım. 
 
-Projemizin başlaması çok basit bot.py’nin bulunduğu dizine gidip streamlit run bot.py yazarak projeyi başlatıyoruz.
+Projemizin başlaması çok basit bot.py’nin bulunduğu dizine gidip ```streamlit run bot.py``` yazarak projeyi başlatıyoruz.
  
  ![image](https://github.com/user-attachments/assets/832c18d4-bb76-4b31-b795-7bc32678cc43)
 

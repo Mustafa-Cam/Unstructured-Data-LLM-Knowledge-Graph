@@ -1,5 +1,7 @@
 # NewMind AI bitirme projesi.
 
+(! Projeyi dökümente edin denildiği için bir projeyi ve kodu anlatan bir pdf hazırladım. Cohort'da ekran görüntüsü kısmına ekledim.)
+
 Şimdi projemizin klasör yapısına bakalım. 
 
  ![image](https://github.com/user-attachments/assets/3980038c-2fb8-4e8c-927a-82dda106bb9b)

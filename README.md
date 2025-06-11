@@ -90,19 +90,21 @@ Console’da şu şekilde ->
 
 Bakalım example olmadan şu sorumuza ne cevap verecek ?
 
-Kaç tane Türk bayraklı gemi var ?
 
- ![image](https://github.com/user-attachments/assets/53ffd963-b23b-4803-8acd-6798b30f6fad)
 
 ![image](https://github.com/user-attachments/assets/1265b57e-cc41-4e2c-9ea1-43c5b4a6a0d7)
 
-
-Bu soruya cevap veremiyorum şeklinde yazdı. Template de de bunu belirtebiliriz aslında. Bunu da deneyeceğim. 
+Bu soruya cevap veremiyorum şeklinde yazdı.
 
 Console -> 
 
  
 ![image](https://github.com/user-attachments/assets/097b8904-58a0-40b2-8d94-a8c4f5174ab0)
+
+
+Kaç tane Türk bayraklı gemi var ?
+
+ ![image](https://github.com/user-attachments/assets/53ffd963-b23b-4803-8acd-6798b30f6fad)
 
 ![image](https://github.com/user-attachments/assets/28c424e1-3f9d-445d-af42-d11df09514fa)
 

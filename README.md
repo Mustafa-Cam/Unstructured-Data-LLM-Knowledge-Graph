@@ -10,7 +10,7 @@ NEO4J_URI=
 NEO4J_USERNAME=neo4j
 NEO4J_PASSWORD=-
 ````
-Virtual env kullanmak python projeleri için öenrilir. 
+Virtual env kullanmak python projeleri için önerilir. 
 
 Projemizin klasör yapısına bakalım. 
 

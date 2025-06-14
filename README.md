@@ -1,6 +1,6 @@
 # NewMind AI bitirme projesi.
 
-(! Projeyi dökümente edin denildiği için bir projeyi ve kodu anlatan bir pdf hazırladım. Cohort'da ekran görüntüsü kısmına ekledim.)
+(Daha ayrıntılı bilgiyi bu pdf de bulabilirsiniz => https://drive.google.com/file/d/1CnzYUftIlu52jjBpfB6QERlIa0bLYoLs/view?usp=drive_link)
 
 İlk olarak bir .env dosyası ouşturulup şu kısımlar doldurulmalıdır =>
 
